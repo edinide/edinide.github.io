@@ -1,0 +1,42 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+h1 {
+	font-size: 32px;
+  font-family: Palatino, 'Palatino Linotype', serif;
+  color: #9CC6D2;
+}
+
+h2 {
+	font-size: 56px;
+}
+
+
+.hero {
+	padding: 250px 0;
+	margin: 30px;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  color: #ffffff;
+  background-image: url('./img/landscape.jpg');
+  background-size: cover;
+}
+
+
+p {
+  font-size: 1.5rem;
+}
+
+.hero a {
+	color: #CBFFFD;
+	font-size: 1.25rem;
+	text-decoration: none;
+	border: 2px dashed #EDFDFD;
+}
+
+#footer {
+  font-size: 0.75rem;
+}
