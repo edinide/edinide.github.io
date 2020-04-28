@@ -21,7 +21,7 @@ h2 {
 	margin: 30px;
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
   color: #ffffff;
-  background-image: url('./img/landscape.jpg');
+  background-image: url('../img/landscape.jpg');
   background-size: cover;
 }
 
